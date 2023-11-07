@@ -8,7 +8,7 @@ public class CommandeEffacer extends CommandeDocument{
     }
     public void executer() {
         if(parameters.length < 3) {
-            System.err.println("Format attendu : affacer;depart;fin");
+            System.err.println("Format attendu : effacer;depart;fin");
             return;
         }
         int depart = Integer.parseInt(parameters[1]);
