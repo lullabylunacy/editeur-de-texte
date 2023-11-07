@@ -27,7 +27,9 @@ public class Document {
     public void majuscules(int start, int end) {
         remplacer(start,end,texte.substring(start,end).toUpperCase());
     }
-    @Override
+    public void effacer(int start, int end) {
+        remplacer(start,end,"");
+    }    @Override
     public String toString() {
         return this.texte;
     }
