@@ -32,7 +32,12 @@ public class Document {
     }
     public void effacer(int start, int end) {
         remplacer(start,end,"");
-    }    @Override
+    }
+    public void inserer(int index, String mot)
+    {
+        remplacer(index, index, mot);
+    }
+
     public String toString() {
         return this.texte;
     }
