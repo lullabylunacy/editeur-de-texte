@@ -7,13 +7,13 @@ public class CommandeInserer extends CommandeDocument{
         super(document, parameters);
     }
     public void executer() {
-        if(parameters.length < 2) {
+        if(parameters.length < 3) {
             System.err.println("Format attendu : inserer;index;mot");
             return;
         }
-        int depart = Integer.parseInt(parameters[1]);
-        int fin = Integer.parseInt(parameters[2]);
-        this.document.effacer(depart,fin);
+        String mot = parameters[2];
+        int index = Integer.parseInt(parameters[1]);
+        this.document.inserer(index,mot);
         super.executer();
     }
 }

@@ -35,8 +35,9 @@ public class Document {
     }
     public void inserer(int index, String mot)
     {
-        remplacer(index, index, mot);
-    }
+        String leftPart = texte.substring(0, index);
+        String rightPart = texte.substring(index,texte.length());
+        texte = leftPart + mot + rightPart;    }
 
     public String toString() {
         return this.texte;
