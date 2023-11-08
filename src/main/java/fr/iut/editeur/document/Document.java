@@ -28,7 +28,7 @@ public class Document {
         remplacer(start,end,texte.substring(start,end).toUpperCase());
     }
     public void clear() {
-        setTexte("");
+        setTexte("x");
     }
     public void effacer(int start, int end) {
         remplacer(start,end,"");
