@@ -1,0 +1,50 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/ann2/garciam/Documents/semestre 3/Conception/tps/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EditeurDeTexte 0.0.1 API'
+-use
+-version
+-windowtitle
+'EditeurDeTexte 0.0.1 API'
+fr.iut.editeur.commande
+fr.iut.editeur.commande.invoker
+fr.iut.editeur.commande.factory
+fr.iut.editeur
+fr.iut.editeur.document
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/src/main/java = 1699372425424
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/help-doc.html = 1699977565348
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/module-search-index.js = 1699977565324
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/index-all.html = 1699977565340
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/index.html = 1699977565308
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/allclasses-index.html = 1699977565320
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/package-search-index.js = 1699977565324
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/stylesheet.css = 1699977565352
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/search.html = 1699977565344
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/link.svg = 1699977565356
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/tag-search-index.js = 1699977565328
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/overview-summary.html = 1699977565344
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/search-page.js = 1699977565360
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/overview-tree.html = 1699977565304
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/search.js = 1699977565360
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/allpackages-index.html = 1699977565324
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/member-search-index.js = 1699977565328
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/type-search-index.js = 1699977565328
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/copy.svg = 1699977565356
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/script.js = 1699977565352
+/home/ann2/garciam/Documents/semestre 3/Conception/tps/target/site/apidocs/element-list = 1699977565204
